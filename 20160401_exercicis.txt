@@ -1,0 +1,23 @@
+Control de versiones - GIT
+##########################
+
+Referencias:
+	https://github.com/gpujol/
+	https://git-scm.com/
+	
+
+Ejercicios en clase
+-------------------
+1. Clonad el repositorio https://github.com/gpujol/formacio_Java_1 a vuestra máquina
+
+2. En el directorio que habéis escogido ahora tenéis disponibles los ejercicios y soluciones de estos días
+
+3. Cread un repositorio en vuestro github que se llame "ejerciciosFormacion"
+
+4. Una vez creado, clonadlo en vuestra máquina y cread dentro de ese repositorio un directorio para cada día, en el siguiente formato: aaaammdd, o sea, para el segundo día, el directorio debería llamarse "20160330", y así sucesivamente.
+
+5. Ahora, los que tengáis los ejercicios resueltos, ponedlos ahí, cada grupo de ejercicios en el directorio que les corresponda.
+
+6. Add > Commit ("Añadid un mensaje, ES IMPORTANTE!") > Push
+
+7. Si todo ha ido bien, deberían verse por el navegador web en vuestro repositorio GitHub y yo debería poder descargarlo
